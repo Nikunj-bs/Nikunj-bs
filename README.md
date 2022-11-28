@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunj-bs&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj-bs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunj-bs" alt="nikunj-bs" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps - Docker, Jenkins, ASW services**
 
@@ -21,6 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj-bs&show_icons=true&locale=en&layout=compact" alt="nikunj-bs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunj-bs&show_icons=true&locale=en" alt="nikunj-bs" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunj-bs" alt="nikunj-bs" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunj-bs&" alt="nikunj-bs" /></p>
 
